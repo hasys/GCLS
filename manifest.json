@@ -1,0 +1,16 @@
+{
+    "name": "GCLS improver",
+    "version": "0.0.0.1",
+    "manifest_version": 2,
+    "description": "Extension makes GChat Slack-like UX",
+    "permissions": [
+      "activeTab"
+    ],
+    "content_scripts": [
+        {
+          "matches": ["*://chat.google.com/*"],
+          "css": ["myStyles.css"],
+          "js": ["contentScript.js"]
+        }
+    ]
+}

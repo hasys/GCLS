@@ -1,0 +1,81 @@
+/* entire chat */
+DIV.auHzcc.cFc9ae, DIV.byY7Yb.cFc9ae {
+    max-width: 50000px !important;
+}
+
+/* thread */
+DIV.dsoUjb {
+    padding: 10px;
+    -webkit-border-radius: 0 !important;
+    border-radius: 0 !important;
+    border: 0 !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+/* system message */
+.mCOR5e {
+    background: white !important;
+    padding: 9px 0 !important;
+}
+
+/* system message text */
+.A2BXPe {
+    color: #666 !important;
+}
+
+.cZICLc {
+    margin: 0 !important;
+}
+
+/* thread replies */
+div.AnmYv.nF6pT, span.jO0Dzb.nF6pT {
+    padding-left: 90px !important;
+}
+
+/* thread hidden replies */
+.zh742e {
+    padding-left: 90px !important;
+}
+
+/* thread reply form active */
+.vmpzOc.eO2Zfd {
+    margin-left: 110px !important;
+}
+
+/* thread reply form */
+.CKEQkc.NfA3Ad.w63zXd.eO2Zfd {
+    margin-left: 110px !important;
+}
+
+/* first message in thread */
+div.AnmYv.nF6pT:first-of-type {
+    padding-left: 0 !important;
+}
+
+/* Hide Start New Thread button */
+.RnpT2b {
+    display: none !important;
+}
+
+/* New Thread input box */
+.XganBc {
+    opacity: 1.0 !important;
+    padding: 0 30px !important;
+    -webkit-border-radius: 0 !important;
+    border-radius: 0 !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+    .XganBc.eLNT1d {
+        display: block !important;
+        opacity: 1.0 !important;
+    }
+
+    .pyNvz.GVSFtd {
+        display: none !important;
+    }
+
+    .IEIJqd {
+        padding: 0 !important;
+    }
